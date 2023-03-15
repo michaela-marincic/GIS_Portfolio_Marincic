@@ -1,7 +1,9 @@
-# GIS_Portfolio_Marincic
+# GIS Portfolio 
+### _Michaela Marincic_
 
-# About Me
 
-# What I Hope to Learn
+## About Me
 
-# Portfolio
+## What I Hope to Learn
+
+## Portfolio
