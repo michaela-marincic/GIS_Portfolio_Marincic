@@ -11,3 +11,5 @@ I have over five years of experience working with both nonprofit and public agen
 I hope to learn new analytic techniques to uncover research insights through mapping and GIS. This may include ways of visualzing and analyzing data within ArcGIS, as well as methods for geospatial data collection in the field. I would like to become more comfortable with creating maps for public consumption, including optimal symbology and visualization for non-technical audiences, such as story maps and other online publications. I hope to refine and polish my skills to become a more confident GIS professional, capable of delivering projects from start to finish and handing off products to external organizations in a way that is sustainable and will be helpful into the future.
 
 ## Portfolio
+
+[Kraken BrewFest 2023](https://michaela-marincic.github.io/GIS_Portfolio_Marincic/Kraken%20SummerFest%20Demo.html)
