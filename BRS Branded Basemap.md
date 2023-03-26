@@ -10,9 +10,16 @@
 ### Knoxville Downtown
 ![alt text](https://michaela-marincic.github.io/GIS_Portfolio_Marincic/Custom%20Google%20Map%20Materials/Lowest%20Zoom%20Level.png?raw=true)
 
-### Color Palettes Generated from BRS Website and Logo
+<br>
+<br>
+
+# Color Palettes Generated from Bridge Website
+
+### Home Page Color Palette
+![alt text](https://michaela-marincic.github.io/GIS_Portfolio_Marincic/Custom%20Google%20Map%20Materials/Home%20Page%20Palette.png?raw=true)
+
+### Donation Page Color Palette
 ![alt text](https://michaela-marincic.github.io/GIS_Portfolio_Marincic/Custom%20Google%20Map%20Materials/Donation%20Page%20Palette.png?raw=true)
 
-![alt text](https://michaela-marincic.github.io/GIS_Portfolio_Marincic/Custom%20Google%20Map%20Materials/Home%20Page%20Palette.png?raw=true)
 
 [downloadable JSON file](https://michaela-marincic.github.io/GIS_Portfolio_Marincic/Custom%20Google%20Map%20Materials/Custom%20Google%20Map.json)
