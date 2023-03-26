@@ -1,5 +1,18 @@
-## Views of the new branded map
+# Views of the new branded map
 
-![alt text](https://github.com/michaela-marincic/GIS_Portfolio_Marincic/blob/Custom%Google%Map%Materials/Highest%Zoom%Level.jpg?raw=true)
+### BRS Service Area
+![alt text](https://michaela-marincic.github.io/GIS_Portfolio_Marincic/Custom%20Google%20Map%20Materials/Highest%20Zoom%20Level.png?raw=true)
 
-[downloadable JSON file](https://michaela-marincic.github.io/GIS_Portfolio_Marincic/Custom%Google%Map%Materials/Custom%Google%Map.json)
+
+### City of Knoxville
+![alt text](https://michaela-marincic.github.io/GIS_Portfolio_Marincic/Custom%20Google%20Map%20Materials/Medium%20Zoom%20Level.png?raw=true)
+
+### Knoxville Downtown
+![alt text](https://michaela-marincic.github.io/GIS_Portfolio_Marincic/Custom%20Google%20Map%20Materials/Lowest%20Zoom%20Level.png?raw=true)
+
+### Color Palettes Generated from BRS Website and Logo
+![alt text](https://michaela-marincic.github.io/GIS_Portfolio_Marincic/Custom%20Google%20Map%20Materials/Donation%20Page%20Palette.png?raw=true)
+
+![alt text](https://michaela-marincic.github.io/GIS_Portfolio_Marincic/Custom%20Google%20Map%20Materials/Home%20Page%20Palette.png?raw=true)
+
+[downloadable JSON file](https://michaela-marincic.github.io/GIS_Portfolio_Marincic/Custom%20Google%20Map%20Materials/Custom%20Google%20Map.json)
