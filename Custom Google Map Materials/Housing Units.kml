@@ -2,9 +2,9 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Housing Units</name>
-    <Style id="icon-1603-A52714-nodesc-normal">
+    <Style id="icon-1603-880E4F-nodesc-normal">
       <IconStyle>
-        <color>ff1427a5</color>
+        <color>ff4f0e88</color>
         <scale>1</scale>
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -17,9 +17,9 @@
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
-    <Style id="icon-1603-A52714-nodesc-highlight">
+    <Style id="icon-1603-880E4F-nodesc-highlight">
       <IconStyle>
-        <color>ff1427a5</color>
+        <color>ff4f0e88</color>
         <scale>1</scale>
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -32,19 +32,19 @@
         <text><![CDATA[<h3>$[name]</h3>]]></text>
       </BalloonStyle>
     </Style>
-    <StyleMap id="icon-1603-A52714-nodesc">
+    <StyleMap id="icon-1603-880E4F-nodesc">
       <Pair>
         <key>normal</key>
-        <styleUrl>#icon-1603-A52714-nodesc-normal</styleUrl>
+        <styleUrl>#icon-1603-880E4F-nodesc-normal</styleUrl>
       </Pair>
       <Pair>
         <key>highlight</key>
-        <styleUrl>#icon-1603-A52714-nodesc-highlight</styleUrl>
+        <styleUrl>#icon-1603-880E4F-nodesc-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Placemark>
       <name>Tower Gardens</name>
-      <styleUrl>#icon-1603-A52714-nodesc</styleUrl>
+      <styleUrl>#icon-1603-880E4F-nodesc</styleUrl>
       <Point>
         <coordinates>
           -83.948482,36.0149047,0
@@ -53,7 +53,7 @@
     </Placemark>
     <Placemark>
       <name>Terrace Manor</name>
-      <styleUrl>#icon-1603-A52714-nodesc</styleUrl>
+      <styleUrl>#icon-1603-880E4F-nodesc</styleUrl>
       <Point>
         <coordinates>
           -84.0116534,35.9287703,0
@@ -62,7 +62,7 @@
     </Placemark>
     <Placemark>
       <name>KCDC Love Towers</name>
-      <styleUrl>#icon-1603-A52714-nodesc</styleUrl>
+      <styleUrl>#icon-1603-880E4F-nodesc</styleUrl>
       <Point>
         <coordinates>
           -83.872951,36.0004629,0
@@ -71,7 +71,7 @@
     </Placemark>
     <Placemark>
       <name>122 South Charlotte Avenue</name>
-      <styleUrl>#icon-1603-A52714-nodesc</styleUrl>
+      <styleUrl>#icon-1603-880E4F-nodesc</styleUrl>
       <Point>
         <coordinates>
           -83.9045367,35.9498958,0
@@ -80,7 +80,7 @@
     </Placemark>
     <Placemark>
       <name>6800 Western Avenue</name>
-      <styleUrl>#icon-1603-A52714-nodesc</styleUrl>
+      <styleUrl>#icon-1603-880E4F-nodesc</styleUrl>
       <Point>
         <coordinates>
           -83.9992938,35.9687928,0
