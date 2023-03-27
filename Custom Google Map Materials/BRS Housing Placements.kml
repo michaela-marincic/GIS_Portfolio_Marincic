@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>BRS Housing Placements</name>
+    <description>A map of all housing locations where refugees are currently or have previously been placed in Knoxville.</description>
+    <Style id="icon-1603-A52714-nodesc-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1603-A52714-nodesc-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1603-A52714-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-A52714-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-A52714-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Housing Units</name>
+      <Placemark>
+        <name>Tower Gardens</name>
+        <styleUrl>#icon-1603-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -83.948482,36.0149047,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Terrace Manor</name>
+        <styleUrl>#icon-1603-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -84.0116534,35.9287703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KCDC Love Towers</name>
+        <styleUrl>#icon-1603-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -83.872951,36.0004629,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>122 South Charlotte Avenue</name>
+        <styleUrl>#icon-1603-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -83.9045367,35.9498958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6800 Western Avenue</name>
+        <styleUrl>#icon-1603-A52714-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -83.9992938,35.9687928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
