@@ -25,5 +25,5 @@
 <br>
 
 # Useful Links
-[Interactive Version of Map](https://michaela-marincic.github.io/GIS_Portfolio_Marincic/Custom%20Google%20Map%20Materials/custom-google-map.html)
-[Downloadable JSON file](https://michaela-marincic.github.io/GIS_Portfolio_Marincic/Custom%20Google%20Map%20Materials/Custom%20Google%20Map.json)
+[Interactive Version of Map](https://michaela-marincic.github.io/GIS_Portfolio_Marincic/Custom%20Google%20Map%20Materials/custom-google-map.html) <br>
+[Downloadable JSON File](https://michaela-marincic.github.io/GIS_Portfolio_Marincic/Custom%20Google%20Map%20Materials/Custom%20Google%20Map.json)
