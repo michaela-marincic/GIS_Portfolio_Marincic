@@ -21,5 +21,9 @@
 ### Donation Page Color Palette
 ![alt text](https://michaela-marincic.github.io/GIS_Portfolio_Marincic/Custom%20Google%20Map%20Materials/Donation%20Page%20Palette.png?raw=true)
 
+<br>
+<br>
 
-[downloadable JSON file](https://michaela-marincic.github.io/GIS_Portfolio_Marincic/Custom%20Google%20Map%20Materials/Custom%20Google%20Map.json)
+# Useful Links
+[Interactive Version of Map](https://michaela-marincic.github.io/GIS_Portfolio_Marincic/Custom%20Google%20Map%20Materials/custom-google-map.html)
+[Downloadable JSON file](https://michaela-marincic.github.io/GIS_Portfolio_Marincic/Custom%20Google%20Map%20Materials/Custom%20Google%20Map.json)
