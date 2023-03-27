@@ -1,4 +1,4 @@
-# Views of the new branded map
+# BRS Branded Basemap
 
 ### BRS Service Area
 ![alt text](https://michaela-marincic.github.io/GIS_Portfolio_Marincic/Custom%20Google%20Map%20Materials/Highest%20Zoom%20Level.png?raw=true)
