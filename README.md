@@ -17,3 +17,5 @@ I hope to learn new analytic techniques to uncover research insights through map
 [Custom Google Basemap](https://michaela-marincic.github.io/GIS_Portfolio_Marincic/BRS%20Branded%20Basemap.html)
 
 [Refugee Migration Analysis](https://michaela-marincic.github.io/GIS_Portfolio_Marincic/Refugee%20Populations.html)
+
+[Knoxville Litter Analysis - CMU Only] (https://storymaps.arcgis.com/stories/d4259c0107174dfdaee33f9e2c3f393a)
